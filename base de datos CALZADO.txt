@@ -1,0 +1,51 @@
+NOMBRE DE LA BASE DE DATOS: "CALZADO"
+
+
+create table zapatos
+(
+     
+
+
+codigo varchar (100) NOT NULL AUTO INCREMENT primary key,
+precio varchar (100) not null,
+color varchar (100) not null,
+estilo varchar (100) not null,
+talla varchar (100) not null,
+cantidad varchar(100) not null
+
+)
+
+--------------------------------------
+create table usuarios 
+(
+    username varchar (100) primary key,
+    clave varchar (100) not null,
+    tipo varchar (50) not null
+)
+
+-----------------------------------------
+DATATABLE
+
+create table productos
+(
+     
+
+
+id int(6) NOT NULL AUTO INCREMENT primary key,
+
+
+    codigo varchar (100) not null
+    precio varchar (100) not null,
+    descripcion varchar (500) not null,
+    talla varchar (100) not null,
+    estilo varchar (100) not null,
+    cantidad varchar(100) not null,
+    image varchar(150) NOT NULL
+
+)
+
+
+
+
+
+

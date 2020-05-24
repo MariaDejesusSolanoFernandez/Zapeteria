@@ -1,0 +1,59 @@
+.tituloo
+  {
+
+font-family: 'Solway';
+font-size: 20px;
+color: #050505;
+  }
+  .imageen
+  {
+	background-color: #78f18c;
+  }
+  .titulo
+  {
+
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 250px;
+color: #ee4816;
+  }
+
+  .diseño
+  {
+      width: 50%;
+      height: 5%;
+  }
+  .color
+  {
+    background: rgb(77, 132, 235);
+  }
+  .btnnn{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075)inset;
+    color: #fff;
+    display: block;
+    font-size: 14px;
+    background: rgb(15, 13, 15);
+    margin-bottom: 15px;
+    padding: 10px 20px;
+    margin-right: 10px;
+    outline: medium none;
+    cursor: pointer;
+    border-radius: 15px;
+  }
+  .btnn{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075)inset;
+    color: #fff;
+    display: block;
+    font-size: 14px;
+    background: rgb(13, 197, 74);
+    margin-bottom: 15px;
+    padding: 10px 20px;
+    margin-right: 10px;
+    outline: medium none;
+    cursor: pointer;
+    border-radius: 15px;
+    
+  } 
